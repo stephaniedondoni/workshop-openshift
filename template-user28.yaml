@@ -8,7 +8,7 @@ parameters:
   description: How you want to call your application's name
   required: true
   value: app-user28
-- name: orizon-defb
+- name: GUID
   displayName: GUID's Name
   description: GUID for Test Drive Access
   required: true
